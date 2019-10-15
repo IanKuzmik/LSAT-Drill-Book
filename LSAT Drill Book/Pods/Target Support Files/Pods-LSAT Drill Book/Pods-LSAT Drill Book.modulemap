@@ -1,0 +1,6 @@
+framework module Pods_LSAT_Drill_Book {
+  umbrella header "Pods-LSAT Drill Book-umbrella.h"
+
+  export *
+  module * { export * }
+}

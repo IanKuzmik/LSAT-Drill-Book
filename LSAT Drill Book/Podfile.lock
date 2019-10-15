@@ -1,0 +1,23 @@
+PODS:
+  - SwiftLint (0.35.0)
+  - VocabDict (1.0.0)
+
+DEPENDENCIES:
+  - SwiftLint
+  - VocabDict (from `../../../Pod Libraries/VocabDict/VocabDict/`)
+
+SPEC REPOS:
+  trunk:
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  VocabDict:
+    :path: "../../../Pod Libraries/VocabDict/VocabDict/"
+
+SPEC CHECKSUMS:
+  SwiftLint: 5553187048b900c91aa03552807681bb6b027846
+  VocabDict: 54155db8e5be4273d4afcaaa2208c9c407c2c2f6
+
+PODFILE CHECKSUM: fe0b0e307f3f2fabc8bfb6c86041d1f7c82775c0
+
+COCOAPODS: 1.8.3
