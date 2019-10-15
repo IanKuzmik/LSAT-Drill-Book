@@ -12,4 +12,4 @@ Planning on making this ReadMe more robust in the near future; I'll stick to bul
 - Feel free to do whatever with it
 
 -Thanks for reading this. Who are you? How did you get here?
-  -I'm new to Github, so, just curious. Hit me up
+  I'm new to Github, so, just curious. Hit me up
